@@ -22,7 +22,7 @@ const ProductDetails = () => {
                         <h1>{productData.title}</h1>
                         <p>Price: ${productData.price}</p>
                         <p>Desc: {productData.description}</p>
-                        <Link to="/">Other Products</Link>
+                        <Link className="btn" to="/">Other Products</Link>
                     </div>
                 </div>
             ) : (
