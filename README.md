@@ -10,6 +10,6 @@
 
 - Admin must be able to edit or delete any product if needed.
 
-<ins>**OUTPUT:**</ins>
+<ins>**OUTPUT:**</ins> 
 
 ![output](https://storage.googleapis.com/acciojob-open-file-collections/mobil.gif)
